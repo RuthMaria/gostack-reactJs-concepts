@@ -49,7 +49,7 @@ yarn
 - Run the API
 
 ```
-yarn dev
+yarn start
 ```
 
 <br>
