@@ -19,6 +19,13 @@ div {
 
 h1{
   margin-bottom: 2rem;
+  color: #666666;
+}
+
+span{
+    font-weight: bold;
+    color: purple;
+    padding-left: 1rem;
 }
 
 div li {

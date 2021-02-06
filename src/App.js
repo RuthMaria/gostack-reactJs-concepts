@@ -13,8 +13,8 @@ function App() {
 
   async function handleAddRepository() {
     const response = await api.post('/repositories', {
-        url: "https://github.com/Rocketseat/umbriel",
-        title: "Umbriel",
+        url: "https://github.com/Rocketseat/RuthMaria",
+        title: "Ruth Maria",
         techs: ["Node", "Express", "TypeScript"]
     })
 
@@ -25,7 +25,7 @@ function App() {
     await api.delete(`/repositories/${id}`)
 
     const newRepository = repositories.filter(repository => repository.id !== id)
-    
+
     setRepositories(newRepository)
   }
 
@@ -35,8 +35,9 @@ function App() {
       <ul data-testid="repository-list">
           {repositories.map(repository => (
               <li key={repository.id}>
-                {repository.title}
-
+                <span>
+                  {repository.title}
+                </span>
                 <button onClick={() => handleRemoveRepository(repository.id)}>
                     Remover
                 </button>

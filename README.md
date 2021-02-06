@@ -5,6 +5,7 @@
 </h1>
 
 <p align="center">
+  <a href="#execution">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#run">How to run the API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -25,7 +26,14 @@
 
 Frontend [challenge](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs) to improve the React.js concepts (babel, webpack, components, property, state and immutability) applied in Rocketseat's GoStack Bootcamp.
 
- it's an Application which stores repositories of the a portfolio. it enables one to create, read, update and remove repositories, in addition to allowing repositories to receive "likes".
+ it's an Application which stores repositories of the a portfolio. it enables one to create, read and remove repositories.
+
+<a id="execution"></a><br>
+
+ ## :tv: Preview
+
+![video](./assets/video.gif)
+
 
 <a id="technologies"></a><br>
 
