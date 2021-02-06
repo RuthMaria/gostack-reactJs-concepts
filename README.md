@@ -23,7 +23,7 @@
 
 ## :books: About
 
-Frontend [challenge](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs) to improve the React.js concepts (Babel, webpack, components, property, state immutability) applied in Rocketseat's GoStack Bootcamp.
+Frontend [challenge](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs) to improve the React.js concepts (babel, webpack, components, property, state and immutability) applied in Rocketseat's GoStack Bootcamp.
 
  it's an Application which stores repositories of the a portfolio. it enables one to create, read, update and remove repositories, in addition to allowing repositories to receive "likes".
 
@@ -35,7 +35,7 @@ Frontend [challenge](https://github.com/rocketseat-education/bootcamp-gostack-de
 
 <a id="run"></a><br>
 
-## 🚀 How to run the API
+## 🚀 How to run the project
 
 - Clone this repository
 
@@ -49,7 +49,7 @@ git clone https://github.com/RuthMaria/gostack-reactJs-concepts.git
 yarn 
 ```
 
-- Run the API
+- Run the project
 
 ```
 yarn start
