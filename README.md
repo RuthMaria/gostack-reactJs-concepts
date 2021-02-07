@@ -63,10 +63,10 @@ yarn
 yarn start
 ```
 
-- Run the test
+- Run the tests
 
 ```
-yarn tests
+yarn test
 ```
 
 <br>
