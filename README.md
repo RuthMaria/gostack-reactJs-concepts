@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://github.com/csorlandi/nodejs-concepts">
-    <img alt="Logo ReactJS" src="./assets/logo.png" width="500px" />
+    <img alt="Logo ReactJS" src="./assets/logo.png" width="600px" />
   </a>
 </h1>
 
 <p align="center">
   <a href="#execution">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#run">How to run the API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#run">How to run the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
@@ -66,7 +66,7 @@ yarn start
 - Run the test
 
 ```
-yarn test
+yarn tests
 ```
 
 <br>
@@ -82,7 +82,7 @@ yarn test
 
 ## :memo: License
 
-This project is under the MIT license. See the  file [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See the  file [LICENSE](LICENSE) for more details.
 
 ---
 
