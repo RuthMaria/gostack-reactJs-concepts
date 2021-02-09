@@ -45,6 +45,10 @@ Frontend [challenge](https://github.com/rocketseat-education/bootcamp-gostack-de
 
 ## 🚀 How to run the project
 
+- Clone the repository of the [API](https://github.com/RuthMaria/gostack-nodeJs-concepts) and run
+
+<br>
+
 - Clone this repository
 
 ```
